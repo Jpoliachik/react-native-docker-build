@@ -1,6 +1,6 @@
 # Pull base image.
 FROM ubuntu:16.04
-MAINTAINER navarroaxel <navarroaxel@gmail.com>
+MAINTAINER jpoliachik <jpoliachik@gmail.com>
 
 LABEL Description="Node LTS with yarn and react-native"
 
